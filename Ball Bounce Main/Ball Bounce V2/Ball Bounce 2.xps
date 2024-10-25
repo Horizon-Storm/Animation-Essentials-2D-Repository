@@ -1,0 +1,54 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="3">
+	<layer col="1" caption="Background" dir="D:\Ball Bounce V2\" color="0" visible="1">
+		<cel col="1" row="1" duration="24">Background_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Ball" dir="D:\Ball Bounce V2\" color="1" visible="1">
+		<cel col="2" row="1" duration="2">Ball_0001.jpg</cel>
+		<cel col="2" row="3" duration="2">Ball_0003.jpg</cel>
+		<cel col="2" row="5" duration="2">Ball_0005.jpg</cel>
+		<cel col="2" row="7" duration="1">Ball_0007.jpg</cel>
+		<cel col="2" row="8" duration="1">Ball_0009.jpg</cel>
+		<cel col="2" row="9" duration="1">Ball_0011.jpg</cel>
+		<cel col="2" row="10" duration="2">Ball_0013.jpg</cel>
+		<cel col="2" row="12" duration="2">Ball_0015.jpg</cel>
+		<cel col="2" row="14" duration="1">Ball_0017.jpg</cel>
+		<cel col="2" row="15" duration="1">Ball_0019.jpg</cel>
+		<cel col="2" row="16" duration="2">Ball_0021.jpg</cel>
+		<cel col="2" row="18" duration="2">Ball_0023.jpg</cel>
+		<cel col="2" row="20" duration="2">Ball_0025.jpg</cel>
+		<cel col="2" row="22" duration="2">Ball_0027.jpg</cel>
+		<cel col="2" row="24" duration="1">Ball_0029.jpg</cel>
+	</layer>
+	<layer col="3" caption="Tail" dir="D:\Ball Bounce V2\" color="1" visible="1">
+		<cel col="3" row="1" duration="1">Tail_0001.jpg</cel>
+		<cel col="3" row="2" duration="1">Tail_0002.jpg</cel>
+		<cel col="3" row="3" duration="1">Tail_0003.jpg</cel>
+		<cel col="3" row="4" duration="1">Tail_0004.jpg</cel>
+		<cel col="3" row="5" duration="2">Tail_0005.jpg</cel>
+		<cel col="3" row="7" duration="1">Tail_0007.jpg</cel>
+		<cel col="3" row="8" duration="1">Tail_0009.jpg</cel>
+		<cel col="3" row="9" duration="1">Tail_0011.jpg</cel>
+		<cel col="3" row="10" duration="2">Tail_0013.jpg</cel>
+		<cel col="3" row="12" duration="2">Tail_0015.jpg</cel>
+		<cel col="3" row="14" duration="1">Tail_0017.jpg</cel>
+		<cel col="3" row="15" duration="1">Tail_0019.jpg</cel>
+		<cel col="3" row="16" duration="2">Tail_0021.jpg</cel>
+		<cel col="3" row="18" duration="2">Tail_0023.jpg</cel>
+		<cel col="3" row="20" duration="2">Tail_0025.jpg</cel>
+		<cel col="3" row="22" duration="2">Tail_0027.jpg</cel>
+		<cel col="3" row="24" duration="1">Tail_0029.jpg</cel>
+	</layer>
+</layers>
+</xsheet>
+

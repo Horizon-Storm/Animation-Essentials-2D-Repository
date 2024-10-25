@@ -1,0 +1,66 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Background" dir="D:\Walk Across V2\" color="0" visible="1">
+		<cel col="1" row="1" duration="94">Background_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Character" dir="D:\Walk Across V2\" color="1" visible="1">
+		<cel col="2" row="1" duration="2">Character_0001.jpg</cel>
+		<cel col="2" row="3" duration="2">Character_0003.jpg</cel>
+		<cel col="2" row="5" duration="2">Character_0005.jpg</cel>
+		<cel col="2" row="7" duration="2">Character_0007.jpg</cel>
+		<cel col="2" row="9" duration="2">Character_0009.jpg</cel>
+		<cel col="2" row="11" duration="2">Character_0011.jpg</cel>
+		<cel col="2" row="13" duration="2">Character_0013.jpg</cel>
+		<cel col="2" row="15" duration="2">Character_0015.jpg</cel>
+		<cel col="2" row="17" duration="2">Character_0017.jpg</cel>
+		<cel col="2" row="19" duration="2">Character_0019.jpg</cel>
+		<cel col="2" row="21" duration="2">Character_0021.jpg</cel>
+		<cel col="2" row="23" duration="2">Character_0023.jpg</cel>
+		<cel col="2" row="25" duration="2">Character_0025.jpg</cel>
+		<cel col="2" row="27" duration="2">Character_0027.jpg</cel>
+		<cel col="2" row="29" duration="2">Character_0029.jpg</cel>
+		<cel col="2" row="31" duration="2">Character_0031.jpg</cel>
+		<cel col="2" row="33" duration="2">Character_0033.jpg</cel>
+		<cel col="2" row="35" duration="2">Character_0035.jpg</cel>
+		<cel col="2" row="37" duration="2">Character_0037.jpg</cel>
+		<cel col="2" row="39" duration="2">Character_0039.jpg</cel>
+		<cel col="2" row="41" duration="2">Character_0041.jpg</cel>
+		<cel col="2" row="43" duration="2">Character_0043.jpg</cel>
+		<cel col="2" row="45" duration="2">Character_0045.jpg</cel>
+		<cel col="2" row="47" duration="2">Character_0047.jpg</cel>
+		<cel col="2" row="49" duration="2">Character_0049.jpg</cel>
+		<cel col="2" row="51" duration="2">Character_0051.jpg</cel>
+		<cel col="2" row="53" duration="2">Character_0053.jpg</cel>
+		<cel col="2" row="55" duration="2">Character_0055.jpg</cel>
+		<cel col="2" row="57" duration="2">Character_0057.jpg</cel>
+		<cel col="2" row="59" duration="2">Character_0059.jpg</cel>
+		<cel col="2" row="61" duration="2">Character_0061.jpg</cel>
+		<cel col="2" row="63" duration="2">Character_0063.jpg</cel>
+		<cel col="2" row="65" duration="2">Character_0065.jpg</cel>
+		<cel col="2" row="67" duration="2">Character_0067.jpg</cel>
+		<cel col="2" row="69" duration="2">Character_0069.jpg</cel>
+		<cel col="2" row="71" duration="2">Character_0071.jpg</cel>
+		<cel col="2" row="73" duration="2">Character_0073.jpg</cel>
+		<cel col="2" row="75" duration="2">Character_0075.jpg</cel>
+		<cel col="2" row="77" duration="2">Character_0077.jpg</cel>
+		<cel col="2" row="79" duration="2">Character_0079.jpg</cel>
+		<cel col="2" row="81" duration="2">Character_0081.jpg</cel>
+		<cel col="2" row="83" duration="2">Character_0083.jpg</cel>
+		<cel col="2" row="85" duration="2">Character_0085.jpg</cel>
+		<cel col="2" row="87" duration="2">Character_0087.jpg</cel>
+		<cel col="2" row="89" duration="2">Character_0089.jpg</cel>
+		<cel col="2" row="91" duration="2">Character_0091.jpg</cel>
+		<cel col="2" row="93" duration="2">Character_0093.jpg</cel>
+	</layer>
+</layers>
+</xsheet>

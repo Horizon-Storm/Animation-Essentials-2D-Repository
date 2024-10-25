@@ -1,0 +1,28 @@
+<xsheet version="4.0">
+<settings>
+	<fps>12</fps>
+	<step>2</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Back" dir="D:\Walk V1\" color="0" visible="1">
+		<cel col="1" row="1" duration="18">Back_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Character" dir="D:\Walk V1\" color="1" visible="1">
+		<cel col="2" row="1" duration="2">Character_0001.jpg</cel>
+		<cel col="2" row="3" duration="2">Character_0003.jpg</cel>
+		<cel col="2" row="5" duration="2">Character_0005.jpg</cel>
+		<cel col="2" row="7" duration="2">Character_0007.jpg</cel>
+		<cel col="2" row="9" duration="2">Character_0009.jpg</cel>
+		<cel col="2" row="11" duration="2">Character_0011.jpg</cel>
+		<cel col="2" row="13" duration="2">Character_0013.jpg</cel>
+		<cel col="2" row="15" duration="2">Character_0015.jpg</cel>
+		<cel col="2" row="17" duration="2">Character_0017.jpg</cel>
+	</layer>
+</layers>
+</xsheet>

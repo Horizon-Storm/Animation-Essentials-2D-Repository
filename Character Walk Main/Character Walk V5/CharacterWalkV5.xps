@@ -1,0 +1,48 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Background" dir="D:\Character Walk V5\" color="0" visible="1">
+		<cel col="1" row="1" duration="75">Background_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Character" dir="D:\Character Walk V5\" color="0" visible="1">
+		<cel col="2" row="1" duration="2">Character_0001.jpg</cel>
+		<cel col="2" row="3" duration="2">Character_0003.jpg</cel>
+		<cel col="2" row="5" duration="2">Character_0005.jpg</cel>
+		<cel col="2" row="7" duration="2">Character_0007.jpg</cel>
+		<cel col="2" row="9" duration="3">Character_0009.jpg</cel>
+		<cel col="2" row="12" duration="3">Character_0011.jpg</cel>
+		<cel col="2" row="15" duration="3">Character_0014.jpg</cel>
+		<cel col="2" row="18" duration="3">Character_0017.jpg</cel>
+		<cel col="2" row="21" duration="3">Character_0020.jpg</cel>
+		<cel col="2" row="24" duration="3">Character_0023.jpg</cel>
+		<cel col="2" row="27" duration="3">Character_0026.jpg</cel>
+		<cel col="2" row="30" duration="3">Character_0029.jpg</cel>
+		<cel col="2" row="33" duration="2">Character_0033.jpg</cel>
+		<cel col="2" row="35" duration="2">Character_0035.jpg</cel>
+		<cel col="2" row="37" duration="2">Character_0038.jpg</cel>
+		<cel col="2" row="39" duration="2">Character_0040.jpg</cel>
+		<cel col="2" row="41" duration="2">Character_0042.jpg</cel>
+		<cel col="2" row="43" duration="2">Character_0044.jpg</cel>
+		<cel col="2" row="45" duration="2">Character_0046.jpg</cel>
+		<cel col="2" row="47" duration="3">Character_0048.jpg</cel>
+		<cel col="2" row="50" duration="3">Character_0050.jpg</cel>
+		<cel col="2" row="53" duration="3">Character_0053.jpg</cel>
+		<cel col="2" row="56" duration="3">Character_0056.jpg</cel>
+		<cel col="2" row="59" duration="3">Character_0059.jpg</cel>
+		<cel col="2" row="62" duration="3">Character_0062.jpg</cel>
+		<cel col="2" row="65" duration="3">Character_0065.jpg</cel>
+		<cel col="2" row="68" duration="3">Character_0068.jpg</cel>
+		<cel col="2" row="71" duration="3">Character_0071.jpg</cel>
+		<cel col="2" row="74" duration="2">Character_0074.jpg</cel>
+	</layer>
+</layers>
+</xsheet>
