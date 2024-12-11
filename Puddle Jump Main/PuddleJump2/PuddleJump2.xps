@@ -1,0 +1,38 @@
+<xsheet version="4.0">
+<settings>
+	<fps>12</fps>
+	<step>2</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="3">
+	<layer col="1" caption="Background" dir="D:\Puddle Jump Main\PuddleJump2\" color="0" visible="1">
+		<cel col="1" row="1" duration="49">Background_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Puddle" dir="D:\Puddle Jump Main\PuddleJump2\" color="1" visible="1">
+		<cel col="2" row="1" duration="49">Puddle_0001.jpg</cel>
+	</layer>
+	<layer col="3" caption="Character" dir="D:\Puddle Jump Main\PuddleJump2\" color="2" visible="1">
+		<cel col="3" row="1" duration="3">Character_0001.jpg</cel>
+		<cel col="3" row="4" duration="3">Character_0003.jpg</cel>
+		<cel col="3" row="7" duration="3">Character_0005.jpg</cel>
+		<cel col="3" row="10" duration="3">Character_0007.jpg</cel>
+		<cel col="3" row="13" duration="3">Character_0009.jpg</cel>
+		<cel col="3" row="16" duration="3">Character_0011.jpg</cel>
+		<cel col="3" row="19" duration="5">Character_0013.jpg</cel>
+		<cel col="3" row="24" duration="4">Character_0015.jpg</cel>
+		<cel col="3" row="28" duration="3">Character_0017.jpg</cel>
+		<cel col="3" row="31" duration="2">Character_0019.jpg</cel>
+		<cel col="3" row="33" duration="2">Character_0021.jpg</cel>
+		<cel col="3" row="35" duration="2">Character_0023.jpg</cel>
+		<cel col="3" row="37" duration="2">Character_0025.jpg</cel>
+		<cel col="3" row="39" duration="4">Character_0027.jpg</cel>
+		<cel col="3" row="43" duration="4">Character_0029.jpg</cel>
+		<cel col="3" row="47" duration="3">Character_0031.jpg</cel>
+	</layer>
+</layers>
+</xsheet>

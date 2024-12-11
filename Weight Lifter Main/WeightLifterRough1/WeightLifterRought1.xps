@@ -1,0 +1,30 @@
+<xsheet version="4.0">
+<settings>
+	<fps>12</fps>
+	<step>2</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Back" dir="D:\Weight Lifter Main\WeightLifterRough1\" color="0" visible="1">
+		<cel col="1" row="1" duration="33">Back_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Lifter" dir="D:\Weight Lifter Main\WeightLifterRough1\" color="1" visible="1">
+		<cel col="2" row="1" duration="3">Lifter_0001.jpg</cel>
+		<cel col="2" row="4" duration="3">Lifter_0003.jpg</cel>
+		<cel col="2" row="7" duration="3">Lifter_0005.jpg</cel>
+		<cel col="2" row="10" duration="3">Lifter_0007.jpg</cel>
+		<cel col="2" row="13" duration="3">Lifter_0009.jpg</cel>
+		<cel col="2" row="16" duration="3">Lifter_0011.jpg</cel>
+		<cel col="2" row="19" duration="3">Lifter_0013.jpg</cel>
+		<cel col="2" row="22" duration="3">Lifter_0015.jpg</cel>
+		<cel col="2" row="25" duration="3">Lifter_0017.jpg</cel>
+		<cel col="2" row="28" duration="3">Lifter_0019.jpg</cel>
+		<cel col="2" row="31" duration="3">Lifter_0021.jpg</cel>
+	</layer>
+</layers>
+</xsheet>

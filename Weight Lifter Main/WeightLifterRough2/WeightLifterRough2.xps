@@ -1,0 +1,50 @@
+<xsheet version="4.0">
+<settings>
+	<fps>12</fps>
+	<step>4</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>jpg</format>
+	<path>C:\Users\DGMUser\Desktop\TyHunt\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="3">
+	<layer col="1" caption="Back" dir="D:\Weight Lifter Main\WeightLifterRough2\" color="0" visible="1">
+		<cel col="1" row="1" duration="70">Back_0001.jpg</cel>
+	</layer>
+	<layer col="2" caption="Weight" dir="D:\Weight Lifter Main\WeightLifterRough2\" color="0" visible="1">
+		<cel col="2" row="1" duration="36">Weight_0001.jpg</cel>
+	</layer>
+	<layer col="3" caption="Lifter" dir="D:\Weight Lifter Main\WeightLifterRough2\" color="1" visible="1">
+		<cel col="3" row="1" duration="2">Lifter_0001.jpg</cel>
+		<cel col="3" row="3" duration="2">Lifter_0003.jpg</cel>
+		<cel col="3" row="5" duration="2">Lifter_0005.jpg</cel>
+		<cel col="3" row="7" duration="2">Lifter_0007.jpg</cel>
+		<cel col="3" row="9" duration="2">Lifter_0009.jpg</cel>
+		<cel col="3" row="11" duration="2">Lifter_0011.jpg</cel>
+		<cel col="3" row="13" duration="2">Lifter_0013.jpg</cel>
+		<cel col="3" row="15" duration="2">Lifter_0015.jpg</cel>
+		<cel col="3" row="17" duration="2">Lifter_0017.jpg</cel>
+		<cel col="3" row="19" duration="2">Lifter_0019.jpg</cel>
+		<cel col="3" row="21" duration="2">Lifter_0021.jpg</cel>
+		<cel col="3" row="23" duration="2">Lifter_0023.jpg</cel>
+		<cel col="3" row="25" duration="2">Lifter_0025.jpg</cel>
+		<cel col="3" row="27" duration="2">Lifter_0027.jpg</cel>
+		<cel col="3" row="29" duration="2">Lifter_0029.jpg</cel>
+		<cel col="3" row="31" duration="2">Lifter_0031.jpg</cel>
+		<cel col="3" row="33" duration="2">Lifter_0033.jpg</cel>
+		<cel col="3" row="35" duration="2">Lifter_0035.jpg</cel>
+		<cel col="3" row="37" duration="2">Lifter_0037.jpg</cel>
+		<cel col="3" row="39" duration="2">Lifter_0039.jpg</cel>
+		<cel col="3" row="41" duration="2">Lifter_0041.jpg</cel>
+		<cel col="3" row="43" duration="4">Lifter_0043.jpg</cel>
+		<cel col="3" row="47" duration="4">Lifter_0047.jpg</cel>
+		<cel col="3" row="51" duration="4">Lifter_0051.jpg</cel>
+		<cel col="3" row="55" duration="4">Lifter_0055.jpg</cel>
+		<cel col="3" row="59" duration="4">Lifter_0059.jpg</cel>
+		<cel col="3" row="63" duration="4">Lifter_0063.jpg</cel>
+		<cel col="3" row="67" duration="4">Lifter_0067.jpg</cel>
+	</layer>
+</layers>
+</xsheet>
